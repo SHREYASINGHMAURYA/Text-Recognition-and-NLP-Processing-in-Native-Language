@@ -1,0 +1,1 @@
+# Text-Recognition-and-NLP-Processing-in-Native-Language
